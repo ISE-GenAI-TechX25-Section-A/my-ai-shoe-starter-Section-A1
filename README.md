@@ -2,7 +2,7 @@
 
 ## Our Team
 
-Armando Levario
+Armando Levario Alvarez
 Eugene Taabazuing
 
 ## How to run the streamlit app

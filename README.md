@@ -4,6 +4,7 @@
 
 Armando Levario Alvarez
 Eugene Taabazuing
+Alejandro López
 
 ## How to run the streamlit app
 

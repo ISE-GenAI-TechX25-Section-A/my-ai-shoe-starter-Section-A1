@@ -3,6 +3,7 @@
 ## Our Team
 
 Armando Levario
+Eugene Taabazuing
 
 ## How to run the streamlit app
 

@@ -10,11 +10,11 @@ on:
     types: [published]
 
 env:
-  PROJECT_ID: '' # TODO: update to your Google Cloud project ID
-  SERVICE_NAME: '' # TODO: update to your service name (name of your team's webapp!)
+  PROJECT_ID: 'techx-section1a' # TODO: update to your Google Cloud project ID
+  SERVICE_NAME: 'my-ai-shoe-1a' # TODO: update to your service name (name of your team's webapp!)
   SERVICE_REGION: 'us-central1'
-  SERVICE_ACCOUNT: '' # TODO: update to your Cloud service account
-  WORKLOAD_IDENTITY_PROVIDER: '' #TODO: update to your workload identity provider
+  SERVICE_ACCOUNT: '14496495546-compute@developer.gserviceaccount.com' # TODO: update to your Cloud service account
+  WORKLOAD_IDENTITY_PROVIDER: 'projects/14496495546/locations/global/workloadIdentityPools/github/providers/project-repo' #TODO: update to your workload identity provider
 
 jobs:
   py-checks:
